@@ -1,0 +1,39 @@
+_repo: La-Radiologie-et-La-Guerre_44098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curie, Marie
+    aliases:
+    - Skłodowska, Marya
+    - Curie, Marie Skłodowska
+    birthdate: 1867
+    deathdate: 1934
+    gutenberg_agent_id: '39174'
+    url: http://www.gutenberg.org/2009/agents/39174
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Marie_Curie
+    - http://en.wikipedia.org/wiki/Marie_Curie
+description: ''
+gutenberg_bookshelf: FR La Première Guerre Mondiale, 1914-1918
+gutenberg_issued: '2013-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44098'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Health aspects'
+- !lcsh 'Medical radiology'
+- !lcc 'RM'
+- !lcsh 'World War, 1914-1918 -- Medical care'
+tableOfContents: Introduction -- Les rayons X -- Comment peut-on produire les rayons
+  X -- Installation dans les hôpitaux et voitures radiologiques -- Travail radiologique
+  dans les hôpitaux -- Personnel radiologique -- Rendement et résultats -- Organisation
+  d'après-guerre -- Radiothérapie et radiumthérapie.
+title: La Radiologie et La Guerre
+url: http://www.gutenberg.org/ebooks/44098
