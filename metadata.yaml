@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Marie_Curie
     - http://en.wikipedia.org/wiki/Marie_Curie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44098#La-Radiologie-et-La-Guerre
 gutenberg_bookshelf: FR La Première Guerre Mondiale, 1914-1918
 gutenberg_issued: '2013-11-03'
 gutenberg_type: Text
